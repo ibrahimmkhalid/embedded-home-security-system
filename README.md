@@ -1,0 +1,1 @@
+Embedded C program for the TM4C microcontroller using Keil uVision4 libraries, implements a home automation and security system.
